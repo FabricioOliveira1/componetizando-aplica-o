@@ -13,7 +13,7 @@ A aplicação consiste em uma interface que simula uma aplicação de streaming,
 ## Back end
 - NodeJs
 - Webpack
-- 
+
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
