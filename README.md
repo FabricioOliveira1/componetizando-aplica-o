@@ -1,6 +1,4 @@
 # Watch Me 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/santosediego/dsdeliver-sds2/blob/main/LICENSE) 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ab15e182-74db-4bed-acb2-23907fc2ed26/deploy-status)](https://app.netlify.com/sites/sds2diegosantos/deploys)
 
 # Sobre o projeto
 
@@ -9,7 +7,7 @@ Watch Me é uma aplicação feita com React utilizada para aula de desafio do Cu
 A aplicação consiste em uma interface que simula uma aplicação de streaming, onde você pode selecionar os filmes de acordo com a categoria escolhida.
 
 ## Layout
-![Watchme](https://github.com/FabricioOliveira1/readMe--model/tree/main/assets/watchme.jpg)
+![Watchme](https://github.com/FabricioOliveira1/readMe--model/blob/main/assets/wacthme.jpg)
 
 # Tecnologias utilizadas
 ## Back end
